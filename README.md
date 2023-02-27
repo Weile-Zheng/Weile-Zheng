@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+<div align="center">
+  <img src="https://img.freepik.com/free-vector/meadow-with-green-grass-conifers-hills_107791-10037.jpg?w=1800&t=st=1677520494~exp=1677521094~hmac=1d002067528213a6efab1fc771166a5e2149200b6e8f2dd3974247447c2f2913" width="600" height="300"/>
+</div>
+
+
+
 <!--
 **Weile-Zheng/Weile-ZHeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
