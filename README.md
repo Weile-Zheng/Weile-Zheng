@@ -1,4 +1,4 @@
-## Welcome! 🙌
+# Welcome! 🙌
 
 #### Undergraduate Computer Science Student c'o 2026
 
