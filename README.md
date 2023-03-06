@@ -1,6 +1,6 @@
 # Welcome! 🙌
 
-#### Undergraduate Computer Science Student c'o 2026
+#### Undergraduate Computer Science Student
 
 ![Header](./github-header-image.png)
 
