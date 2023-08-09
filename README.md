@@ -1,6 +1,6 @@
 # Welcome! 🙌
 
-#### Undergraduate Computer Science Student at University of Michigan
+#### Undergraduate Computer Science Student at UofM
 
 ![Header](./github-header-image.png)
 
