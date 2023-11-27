@@ -1,6 +1,11 @@
 # Welcome! 🙌
 
-#### Undergraduate Computer Science Student at University of Michigan
+#### 〽️ Undergraduate Computer Science Student at University of Michigan  
+California 📍
+Aspired Software Engineer 💻
+Machine Learning Enthusiast 🚀
+Piano Player 🎹
+Hooper 🏀
 
 ![Header](./github-header-image.png)
 
