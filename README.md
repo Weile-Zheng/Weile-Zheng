@@ -1,5 +1,5 @@
 # Welcome! 🙌
-
+![Header](./github-header-image.png)
 #### 〽️ Undergraduate Computer Science Student at University of Michigan  
 California 📍
 
@@ -10,8 +10,6 @@ Machine Learning Enthusiast 🚀
 Piano Player 🎹
 
 Hooper 🏀
-
-![Header](./github-header-image.png)
 
 
 <!--
