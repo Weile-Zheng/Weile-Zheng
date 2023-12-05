@@ -1,4 +1,4 @@
-<h1 align="center">Welcome! 🙌 Weile Zheng</h1>
+<h1 align="center">Welcome! 🙌 </h1>
 <h3 align="center">〽️ Undergraduate Computer Science Student at University of Michigan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weilezheng&label=Profile%20views&color=0e75b6&style=flat" alt="weilezheng" /> </p>
