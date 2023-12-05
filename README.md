@@ -1,5 +1,4 @@
 # Welcome! 🙌
-![Header](./github-header-image.png)
 #### 〽️ Undergraduate Computer Science Student at University of Michigan  
 California 📍
 
@@ -14,6 +13,7 @@ Hooper 🏀
 [![GitHub Streak](https://streak-stats.demolab.com?user=weile-zheng&theme=sunset-gradient)](https://git.io/streak-stats)
 
 <!--
+![Header](./github-header-image.png)
 
 # Languages & Tools
 ![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![MySql](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)![Neo4J](https://img.shields.io/badge/Neo4j-4581C3.svg?style=for-the-badge&logo=Neo4j&logoColor=white)
