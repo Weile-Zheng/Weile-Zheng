@@ -11,6 +11,7 @@ Piano Player 🎹
 
 Hooper 🏀
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=weile-zheng&theme=sunset-gradient)](https://git.io/streak-stats)
 
 <!--
 
