@@ -11,7 +11,7 @@ Piano Player 🎹
 
 Hooper 🏀
 
-![Weile's GitHub stats](https://github-readme-stats.vercel.app/api?username=weile-zheng&show_icons=true&theme=radical)
+
 <!--
 
 # Languages & Tools
