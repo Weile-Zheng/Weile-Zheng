@@ -9,7 +9,7 @@
 - 📫 How to reach me **weilez@umich.edu**
 
 - ⚡ About me: **California 📍
-Software Engineer 💻
+Software Engineering 💻
 Machine Learning 🚀
 Piano 🎹
 Basketball 🏀**
