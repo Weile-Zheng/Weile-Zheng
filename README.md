@@ -1,4 +1,3 @@
-<h1 align="center">Welcome! 🙌 </h1>
 <h3 align="center">〽️ Undergraduate Computer Science Student at University of Michigan</h3>
 
 <!---
