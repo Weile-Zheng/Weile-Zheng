@@ -11,7 +11,7 @@ Machine Learning 🚀
 Piano 🎹
 Basketball 🏀**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=weile-zheng&theme=sunset-gradient&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=weile-zheng&theme=sunset-gradient&card_width=1000&mode=weekly)](https://git.io/streak-stats)
 <!---
 ![](https://img.shields.io/badge/Weile-Zheng-blue)
 
