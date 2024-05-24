@@ -7,7 +7,7 @@ Undergraduate Student at University of Michigan 〽️
 
 - ⚡ About me: **California 📍
 Software Engineering 💻
-Machine Learning 🚀
+Data Science 🚀
 Piano 🎹
 Basketball 🏀**
 
