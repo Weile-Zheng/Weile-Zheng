@@ -1,15 +1,18 @@
 <h1 align="center">Hi, I am Weile</h1>
 
 Undergraduate Student at University of Michigan 〽️ 
-- 📫 How to reach me **weilez@umich.edu**
+
+📫 How to reach me **weilez@umich.edu**
 
 
 
-- ⚡ About me: **California 📍
-Software Engineering 💻
-Data Science 🚀
-Piano 🎹
-Basketball 🏀**
+⚡ About me: 
+
+- California 📍
+
+- I am interested in: Software Engineering 💻 Data Science 🚀
+
+- I play: Piano 🎹 Basketball 🏀
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=weile-zheng&theme=sunset-gradient&card_width=1000&mode=weekly)](https://git.io/streak-stats)
 <!---
