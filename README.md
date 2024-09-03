@@ -12,7 +12,7 @@ Undergraduate Student at University of Michigan 〽️
 
 - I am interested in: Systems Engineering 💻 Data Science 🚀
 
-- I play: Piano 🎹 Basketball 🏀
+- Hobbies: 🎹 🏀 💪 ⛳ 🎾 🎱
 
 <!---
 [![GitHub Streak](https://streak-stats.demolab.com?user=weile-zheng&theme=sunset-gradient&card_width=1000&mode=weekly)](https://git.io/streak-stats)
