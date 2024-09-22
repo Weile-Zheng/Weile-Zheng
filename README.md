@@ -10,7 +10,7 @@ Undergraduate Student at University of Michigan 〽️
 
 - California 📍
 
-- I am interested in: Systems Engineering 💻 Data Science 🚀
+- I am interested in: Distributed Systems 💻 Data Science 🚀
 
 - Hobbies: 🎹 🏀 💪 ⛳ 🎾 🎱
 
