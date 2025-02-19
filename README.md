@@ -10,7 +10,7 @@ Undergraduate Student at University of Michigan 〽️
 
 - California 📍
 
-- I am interested in: Distributed Systems, Operating Systems 💻 Machine Learning 🚀
+- I am interested in: Distributed Systems and LLMs
 
 - Hobbies: 🎹 🏀 💪 ⛳ 🎾 🎱
 
