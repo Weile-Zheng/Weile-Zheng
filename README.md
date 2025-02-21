@@ -10,7 +10,7 @@ Undergraduate Student at University of Michigan 〽️
 
 - California 📍
 
-- I am interested in: Distributed Systems and LLMs
+- I am interested in: Distributed Systems, Databases, and LLMs
 
 - Hobbies: 🎹 🏀 💪 ⛳ 🎾 🎱
 
