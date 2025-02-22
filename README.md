@@ -1,18 +1,12 @@
 <h1 align="center">Hi, I am Weile</h1>
 
-Undergraduate Student at University of Michigan 〽️ 
+Undergraduate Student at University of Michigan
 
-📫 How to reach me **weilez@umich.edu**
+Reach me at: **weilez@umich.edu**
 
+Interested in: Distributed Systems, Databases, and LLMs
 
-
-⚡ About me: 
-
-- California 📍
-
-- I am interested in: Distributed Systems, Databases, and LLMs
-
-- Hobbies: 🎹 🏀 💪 ⛳ 🎾 🎱
+Hobbies: 🎹 🏀 💪 ⛳ 🎾 🎱
 
 <!---
 [![GitHub Streak](https://streak-stats.demolab.com?user=weile-zheng&theme=sunset-gradient&card_width=1000&mode=weekly)](https://git.io/streak-stats)
