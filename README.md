@@ -2,9 +2,9 @@
 
 Undergraduate Student at University of Michigan
 
-Reach me at: **weilez@umich.edu**
+Distributed Systems, Databases, LLMs
 
-Interested in: Distributed Systems, Databases, and LLMs
+Reach me at: **weilez@umich.edu**
 
 Hobbies: 🎹 🏀 💪 ⛳ 🎾 🎱
 
