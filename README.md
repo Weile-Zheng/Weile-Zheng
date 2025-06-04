@@ -2,7 +2,7 @@
 
 Undergraduate Student at University of Michigan
 
-Distributed Systems, Databases, LLMs
+Distributed Systems, Databases, Security
 
 Reach me at: **weilez@umich.edu**
 
