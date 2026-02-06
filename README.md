@@ -2,7 +2,7 @@
 
 Undergraduate Student at University of Michigan
 
-Nowadays, I mainly focus on four things: Distributed Systems, Databases, Compilers, and ML Systems.
+Nowadays, I focus mainly on: Distributed Systems, Databases, Compilers, and ML Systems.
 
 Reach me at: **weilez@umich.edu**
 
