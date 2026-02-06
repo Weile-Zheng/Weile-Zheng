@@ -2,7 +2,7 @@
 
 Undergraduate Student at University of Michigan
 
-Distributed Systems, Databases, Backend
+Nowadays, I mainly focus on four things: Distributed Systems, Databases, Compilers, and ML Systems.
 
 Reach me at: **weilez@umich.edu**
 
