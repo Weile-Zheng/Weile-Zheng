@@ -2,7 +2,7 @@
 
 Undergraduate Student at University of Michigan
 
-Nowadays, I mainly study: Distributed Systems, Databases, Compilers, and ML Systems.
+Nowadays, I mainly focus on studying: Distributed Systems, Databases, Compilers, and ML Systems.
 
 Reach me at: **weilez@umich.edu**
 
